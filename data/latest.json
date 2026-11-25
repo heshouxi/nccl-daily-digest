@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:03:05+08:00",
+  "generated_at": "2026-11-25T09:03:00+08:00",
   "source": "combined_email.py",
   "blocks": [
     {
@@ -147,6 +147,10 @@
         {
           "text": "移液管（SH-YYG-14）",
           "meta": "未校准"
+        },
+        {
+          "text": "测试（）",
+          "meta": "已过期 15天"
         }
       ]
     }
