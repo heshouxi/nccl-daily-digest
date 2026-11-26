@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-25T18:02:54+08:00",
+  "generated_at": "2026-11-26T09:02:49+08:00",
   "source": "combined_email.py",
   "blocks": [
     {
       "title": "本月到期事项",
-      "level": "warn",
+      "level": "info",
       "items": [
         {
           "text": "细菌培养（纯水/环境）",
-          "meta": "26-30号 · 即将到期"
+          "meta": "26-30号 · 进行中"
         }
       ]
     },
@@ -150,7 +150,7 @@
         },
         {
           "text": "测试（）",
-          "meta": "已过期 15天"
+          "meta": "已过期 16天"
         }
       ]
     }
